@@ -1,16 +1,13 @@
 {
   "include": [
-    "src",
-    "test"
+    "src"
   ],
   "compilerOptions": {
-    "outDir": "types",
+    "outDir": "dist",
     "strict": true,
-    "allowJs": true,
     "declaration": true,
     "skipLibCheck": true,
     "declarationMap": true,
     "esModuleInterop": true,
-    "emitDeclarationOnly": true,
   }
 }

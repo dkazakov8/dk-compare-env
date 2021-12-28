@@ -10,3 +10,10 @@ yarn.lock
 .gitignore
 /lint-staged.config.js
 /test
+
+.nyc_output
+coverage
+.github
+src
+.mocharc.json
+tsconfig.json

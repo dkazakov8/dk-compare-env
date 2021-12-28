@@ -3,6 +3,6 @@
 # process exit on first error
 set -e
 
-# yarn generate-types
 yarn run test
+yarn generate-types
 yarn run lint-staged
