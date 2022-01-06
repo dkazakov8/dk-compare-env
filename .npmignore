@@ -1,7 +1,6 @@
 *.log
 .idea
 node_modules
-.husky
 yarn.lock
 .eslintrc.js
 .stylelintrc.js

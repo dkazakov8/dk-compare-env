@@ -6,5 +6,4 @@ node_modules
 
 # Coverage directory used by tools like istanbul
 .nyc_output
-coverage.*
 dist
