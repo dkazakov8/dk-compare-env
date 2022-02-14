@@ -5,6 +5,8 @@
   ],
   "compilerOptions": {
     "outDir": "dist",
+    "module": "commonjs",
+    "target": "ES2021",
     "strict": true,
     "declaration": true,
     "skipLibCheck": true,
